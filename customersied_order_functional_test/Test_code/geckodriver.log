@@ -1,0 +1,1642 @@
+1693399936326	geckodriver	INFO	Listening on 127.0.0.1:65311
+1693399939354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65312" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileVNrQWK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693399939656	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693399939767	Marionette	INFO	Listening on port 65321
+WebDriver BiDi listening on ws://127.0.0.1:65312
+Read port: 65321
+1693399939943	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65312/devtools/browser/2e9d6768-4ae9-4361-a912-e30116ec1a4c
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_dashboard.js?v=1.39, line 29: ReferenceError: array is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_dashboard.js?v=1.39, line 29: ReferenceError: array is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+1693400903484	Marionette	INFO	Stopped listening on port 65321
+Dynamically enable window occlusion 1
+127.0.0.1:65434
+Read port: 65442
+1693400029537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65434/devtools/browser/eacf808f-5758-4149-b64b-d4602f1118d1
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_dashboard.js?v=1.39, line 29: ReferenceError: array is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_dashboard.js?v=1.39, line 29: ReferenceError: array is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+1693400904560	Marionette	INFO	Stopped listening on port 65442
+Dynamically enable window occlusion 1
+127.0.0.1:49337
+Read port: 49346
+1693400418353	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49337/devtools/browser/e023edf2-7ee9-4b06-8619-99e43562db52
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_dashboard.js?v=1.39, line 29: ReferenceError: array is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_dashboard.js?v=1.39, line 29: ReferenceError: array is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+1693400905465	Marionette	INFO	Stopped listening on port 49346
+Dynamically enable window occlusion 1
+mote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693400533682	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693400533790	Marionette	INFO	Listening on port 49486
+WebDriver BiDi listening on ws://127.0.0.1:49471
+Read port: 49486
+1693400533992	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49471/devtools/browser/fec5f3b1-80bd-4d12-9676-c57f5f5862b7
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_dashboard.js?v=1.39, line 29: ReferenceError: array is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+1693400906359	Marionette	INFO	Stopped listening on port 49486
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+"--remote-debugging-port" "49686" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile3lJWH7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693400746637	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693400746747	Marionette	INFO	Listening on port 49695
+WebDriver BiDi listening on ws://127.0.0.1:49686
+Read port: 49695
+1693400746944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49686/devtools/browser/d594587c-b4d7-4077-b787-cc35e44179a5
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_dashboard.js?v=1.39, line 29: ReferenceError: array is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+1693400907254	Marionette	INFO	Stopped listening on port 49691693400909035	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49870" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilez4GVth"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693400909390	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693400909501	Marionette	INFO	Listening on port 49879
+WebDriver BiDi listening on ws://127.0.0.1:49870
+Read port: 49879
+1693400909700	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49870/devtools/browser/e01dce1e-600a-4f94-8e03-3f1886a08cca
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_dashboard.js?v=1.39, line 29: ReferenceError: array is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+1693401034140	Marionette	INFO	Stopped listening on port 49879
+Dynamically enable window occlusion 1
+1693401045289	geckodriver	INFO	Listening on 127.0.0.1:50013
+1693401048350	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50014" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilefHos77"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693401048604	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693401048711	Marionette	INFO	Listening on port 50022
+WebDriver BiDi listening on ws://127.0.0.1:50014
+Read port: 50022
+1693401048914	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50014/devtools/browser/82ed56dd-8c7d-4862-990f-e9e2fd37ea6b
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_dashboard.js?v=1.39, line 29: ReferenceError: array is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+1693401441529	Marionette	INFO	Stopped listening on port 50022
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1693454289839	geckodriver	INFO	Listening on 127.0.0.1:50559
+1693454292915	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50560" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilevxyTTt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693454293572	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693454293749	Marionette	INFO	Listening on port 50567
+WebDriver BiDi listening on ws://127.0.0.1:50560
+Read port: 50567
+1693454294009	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50560/devtools/browser/1577d22d-9b67-42ff-b7c0-a3b42ae7d071
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+1693454313257	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+1693455539595	Marionette	INFO	Stopped listening on port 50567
+Dynamically enable window occlusion 1
+1693455755836	geckodriver	INFO	Listening on 127.0.0.1:50725
+1693455758895	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50726" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile2ScG0Y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693455759333	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693455759471	Marionette	INFO	Listening on port 50733
+WebDriver BiDi listening on ws://127.0.0.1:50726
+Read port: 50733
+1693455759719	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50726/devtools/browser/35e71a0e-656f-424e-a48c-6a813a135f5a
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+1693457861069	Marionette	INFO	Stopped listening on port 50733
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50877" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileXk4ohf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693456046309	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693456046429	Marionette	INFO	Listening on port 50885
+WebDriver BiDi listening on ws://127.0.0.1:50877
+Read port: 50885
+1693456046650	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50877/devtools/browser/ee3f46ff-a587-4631-af07-dba8dc17bc1f
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+1693456064632	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+1693457862031	Marionette	INFO	Stopped listening on port 50885
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51155" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileTB5lxb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693456448674	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693456448782	Marionette	INFO	Listening on port 51164
+WebDriver BiDi listening on ws://127.0.0.1:51155
+Read port: 51164
+1693456448979	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51155/devtools/browser/0d12c1c8-d613-40c9-8c25-8e903d6f7057
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+1693456466937	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+1693457863190	Marionette	INFO	Stopped listening on port 51164
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51336" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileFDDrqX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693456664609	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693456664724	Marionette	INFO	Listening on port 51344
+WebDriver BiDi listening on ws://127.0.0.1:51336
+Read port: 51344
+1693456664919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51336/devtools/browser/f634400f-cf07-4888-a099-bf107abadc4b
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+1693456682824	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+1693457864490	Marionette	INFO	Stopped listening on port 51344
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51509" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileFxEc7O"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693456844398	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693456844512	Marionette	INFO	Listening on port 51517
+WebDriver BiDi listening on ws://127.0.0.1:51509
+Read port: 51517
+1693456844714	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51509/devtools/browser/914b3c69-c3f1-471c-b933-01abd28eb160
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+1693457866034	Marionette	INFO	Stopped listening on port 51517
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+"--remote-debugging-port" "51763" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileJXfpfz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693457213652	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693457213763	Marionette	INFO	Listening on port 51771
+WebDriver BiDi listening on ws://127.0.0.1:51763
+Read port: 51771
+1693457213960	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51763/devtools/browser/d1a48b54-7a6f-457a-b3b5-a300144cc5ef
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+1693457877327	Marionette	INFO	Stopped listening on port 51771
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51945" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileNIGofy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693457420732	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693457420847	Marionette	INFO	Listening on port 51954
+WebDriver BiDi listening on ws://127.0.0.1:51945
+Read port: 51954
+1693457421041	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51945/devtools/browser/c13260ea-0cf3-4347-95a1-c9d68b4a3621
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+1693457875810	Marionette	INFO	Stopped listening on port 51954
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+"--remote-debugging-port" "52152" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileJhKhhc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693457668649	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693457668761	Marionette	INFO	Listening on port 52161
+WebDriver BiDi listening on ws://127.0.0.1:52152
+Read port: 52161
+1693457668966	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52152/devtools/browser/dfb972bf-c002-4279-b9e4-6ef622f526af
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+1693457686886	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+1693458289135	Marionette	INFO	Stopped listening on port 52161
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+"--remote-debugging-port" "52388" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileN5duF0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693457933182	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693457933289	Marionette	INFO	Listening on port 52398
+WebDriver BiDi listening on ws://127.0.0.1:52388
+Read port: 52398
+1693457933483	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52388/devtools/browser/250446c2-e6da-43fd-b7ff-b12823552694
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26085: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1693458372391	Marionette	INFO	Stopped listening on port 52398
+Dynamically enable window occlusion 1
+osts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilexL0EJl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693458365823	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693458365930	Marionette	INFO	Listening on port 52691
+WebDriver BiDi listening on ws://127.0.0.1:52683
+Read port: 52691
+1693458366117	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52683/devtools/browser/a5dc842f-610c-4cda-8e84-19e900c136e3
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26085: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26085: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26085: ReferenceError: tot_bill_amount_edit is not defined
+1693460436694	Marionette	INFO	Stopped listening on port 52691
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+"--remote-debugging-port" "52962" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofiletRgrl1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693458770541	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693458770658	Marionette	INFO	Listening on port 52970
+WebDriver BiDi listening on ws://127.0.0.1:52962
+Read port: 52970
+1693458770854	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52962/devtools/browser/fe6d6d28-d4c7-4a34-98f1-097a3b1bd135
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26085: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26085: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26085: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26085: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26085: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26085: ReferenceError: tot_bill_amount_edit is not defined
+1693460437490	Marionette	INFO	Stopped listening on port 52970
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+"--remote-debugging-port" "53927" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileQD0Vjw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693460214207	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693460214342	Marionette	INFO	Listening on port 53935
+WebDriver BiDi listening on ws://127.0.0.1:53927
+Read port: 53935
+1693460214542	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53927/devtools/browser/373f90d5-c494-493a-aa7c-3d5e3d480a65
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+1693460438415	Marionette	INFO	Stopped listening on port 53935
+Dynamically enable window occlusion 1
+1693460438719	geckodriver	INFO	Listening on 127.0.0.1:54120
+1693460441801	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54121" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileNe9hvK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693460442064	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693460442178	Marionette	INFO	Listening on port 54129
+WebDriver BiDi listening on ws://127.0.0.1:54121
+Read port: 54129
+1693460442376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54121/devtools/browser/4cad6cdf-9187-43dc-8b8c-4003ada39c64
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+1693460460299	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+1693460559941	Marionette	INFO	Stopped listening on port 54129
+Dynamically enable window occlusion 1
+1693460562909	geckodriver	INFO	Listening on 127.0.0.1:54260
+1693460565983	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54261" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilezRmLU0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693460566235	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693460566342	Marionette	INFO	Listening on port 54269
+WebDriver BiDi listening on ws://127.0.0.1:54261
+Read port: 54269
+1693460566531	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54261/devtools/browser/e7d6d163-e851-4a92-b283-3f820561efe2
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+1693461280290	Marionette	INFO	Stopped listening on port 54269
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+"--remote-debugging-port" "54561" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilew2Tw0s"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693460946655	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693460946765	Marionette	INFO	Listening on port 54570
+WebDriver BiDi listening on ws://127.0.0.1:54561
+Read port: 54570
+1693460946976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54561/devtools/browser/2a362898-1381-44d3-9ab3-1bffc4ad8ac4
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+1693461281194	Marionette	INFO	Stopped listening on port 54570
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54723" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofiletOxcN1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693461085900	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693461086029	Marionette	INFO	Listening on port 54732
+WebDriver BiDi listening on ws://127.0.0.1:54723
+Read port: 54732
+1693461086256	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54723/devtools/browser/844a85ec-3e53-43e6-b039-0c453919c81c
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+1693461104788	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+send@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:10:14953
+ajax@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:10:10712
+getRateData@https://retail.logimaxindia.com/etail_v3/admin/assets/js/dashboard.js:638:4
+@https://retail.logimaxindia.com/etail_v3/admin/assets/js/dashboard.js:616:10
+j@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:26925
+fireWith@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:27738
+ready@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:29532
+I@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:29723
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+1693463859800	Marionette	INFO	Stopped listening on port 54732
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54951" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilekfUEqw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693461323365	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693461323520	Marionette	INFO	Listening on port 54960
+WebDriver BiDi listening on ws://127.0.0.1:54951
+Read port: 54960
+1693461323660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54951/devtools/browser/2861c333-6287-4d75-ac0b-c97305bc225a
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26085: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26085: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26085: ReferenceError: tot_bill_amount_edit is not defined
+1693463860770	Marionette	INFO	Stopped listening on port 54960
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+"--remote-debugging-port" "55440" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilelgucOS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693462051227	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693462051344	Marionette	INFO	Listening on port 55448
+Read port: 55448
+WebDriver BiDi listening on ws://127.0.0.1:55440
+1693462051406	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55440/devtools/browser/d2cb61cd-812c-48a6-bcc1-e36ddcf366b4
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+1693463861938	Marionette	INFO	Stopped listening on port 55448
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56368" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilebIDNa5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693463827731	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693463827870	Marionette	INFO	Listening on port 56376
+WebDriver BiDi listening on ws://127.0.0.1:56368
+Read port: 56376
+1693463828089	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56368/devtools/browser/908fb144-7439-4b0e-8b99-cd7c66d5cd20
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+1693463847018	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+1693464010451	Marionette	INFO	Stopped listening on port 56376
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56533" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileUkOBZ1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693464007789	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693464007987	Marionette	INFO	Listening on port 56542
+WebDriver BiDi listening on ws://127.0.0.1:56533
+Read port: 56542
+1693464008239	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56533/devtools/browser/48770071-52ca-424d-aeb0-052dea0e6999
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+1693464026866	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+1693464143038	Marionette	INFO	Stopped listening on port 56542
+Dynamically enable window occlusion 1
+1693464200333	geckodriver	INFO	Listening on 127.0.0.1:56698
+1693464203381	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56699" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileDrgRnT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693464203713	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693464203846	Marionette	INFO	Listening on port 56708
+WebDriver BiDi listening on ws://127.0.0.1:56699
+Read port: 56708
+1693464204064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56699/devtools/browser/62a8e6e3-33c8-4117-a822-8a9a19e65bc3
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+1693464751882	Marionette	INFO	Stopped listening on port 56708
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56936" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileHDLdRZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693464495479	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693464495603	Marionette	INFO	Listening on port 56945
+WebDriver BiDi listening on ws://127.0.0.1:56936
+Read port: 56945
+1693464495817	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56936/devtools/browser/c4b39e6f-0fa9-435a-84e8-23c23a2da4fd
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+1693464513976	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26085: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26085: ReferenceError: tot_bill_amount_edit is not defined
+1693464731433	Marionette	INFO	Stopped listening on port 56945
+Dynamically enable window occlusion 1
+1693464742983	geckodriver	INFO	Listening on 127.0.0.1:57145
+1693464746050	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57146" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileEYcpSx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693464746412	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693464746559	Marionette	INFO	Listening on port 57154
+WebDriver BiDi listening on ws://127.0.0.1:57146
+Read port: 57154
+1693464746720	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57146/devtools/browser/253ce5fe-d0f3-46ad-bcfa-2bdfd5b2d69e
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+1693464765165	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+send@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:10:14953
+ajax@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:10:10712
+getRateData@https://retail.logimaxindia.com/etail_v3/admin/assets/js/dashboard.js:638:4
+@https://retail.logimaxindia.com/etail_v3/admin/assets/js/dashboard.js:616:10
+j@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:26925
+fireWith@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:27738
+ready@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:29532
+I@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:29723
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26085: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26085: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26085: ReferenceError: tot_bill_amount_edit is not defined
+1693466344191	Marionette	INFO	Stopped listening on port 57154
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+"--remote-debugging-port" "57336" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilevHGOSt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693466175273	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693466175400	Marionette	INFO	Listening on port 57343
+WebDriver BiDi listening on ws://127.0.0.1:57336
+Read port: 57343
+1693466175636	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57336/devtools/browser/1dcdee22-ad44-4d76-bcca-ee46acd017da
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+1693466345372	Marionette	INFO	Stopped listening on port 57343
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57425" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileIiNmwn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693466294252	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693466294383	Marionette	INFO	Listening on port 57432
+WebDriver BiDi listening on ws://127.0.0.1:57425
+Read port: 57432
+1693466294603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57425/devtools/browser/77ffd95a-469b-4ba0-84d9-43ec15900d62
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+1693466470824	Marionette	INFO	Stopped listening on port 57432
+Dynamically enable window occlusion 1
+1693467042395	geckodriver	INFO	Listening on 127.0.0.1:57724
+1693467045459	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57725" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile1lq59D"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693467045749	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693467045876	Marionette	INFO	Listening on port 57733
+WebDriver BiDi listening on ws://127.0.0.1:57725
+Read port: 57733
+1693467046082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57725/devtools/browser/02b2ecb0-22a2-4c44-bf8d-78b482a9c2fb
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1693474781141	Marionette	INFO	Stopped listening on port 57733
+Dynamically enable window occlusion 1
+efox.exe" "--marionette" "--remote-debugging-port" "58886" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileVp61PL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693469144711	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693469144828	Marionette	INFO	Listening on port 58894
+WebDriver BiDi listening on ws://127.0.0.1:58886
+Read port: 58894
+1693469145042	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58886/devtools/browser/9936cf25-f340-46c9-8a14-812278df492d
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1693474948526	Marionette	INFO	Stopped listening on port 58894
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+sts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileglrjFj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693469650083	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693469650230	Marionette	INFO	Listening on port 59212
+WebDriver BiDi listening on ws://127.0.0.1:59203
+Read port: 59212
+1693469650378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59203/devtools/browser/4e7ebc50-61ee-45af-957c-8feae7f8cf37
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1693474949361	Marionette	INFO	Stopped listening on port 59212
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+ettings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693470841824	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693470842000	Marionette	INFO	Listening on port 59721
+WebDriver BiDi listening on ws://127.0.0.1:59713
+Read port: 59721
+1693470842230	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59713/devtools/browser/8f1fb438-c9d3-4703-ae80-66eda9c8cf59
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26085: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26085: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26085: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1693474950390	Marionette	INFO	Stopped listening on port 59721
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61568" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileq0AVeT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693474718721	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693474718849	Marionette	INFO	Listening on port 61576
+WebDriver BiDi listening on ws://127.0.0.1:61568
+Read port: 61576
+1693474719003	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61568/devtools/browser/90eeacbf-bb8f-465f-adc8-6d38e6488115
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26085: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26085: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26085: ReferenceError: tot_bill_amount_edit is not defined
+1693475116197	geckodriver	INFO	Listening on 127.0.0.1:61842
+1693475119266	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61843" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile8Gze4U"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693475119588	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693475119709	Marionette	INFO	Listening on port 61851
+WebDriver BiDi listening on ws://127.0.0.1:61843
+Read port: 61851
+1693475119769	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61843/devtools/browser/fd7dd68f-ff67-4b44-a8ad-edc92417bd8e
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+1693475139757	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+send@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:10:14953
+ajax@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:10:10712
+getRateData@https://retail.logimaxindia.com/etail_v3/admin/assets/js/dashboard.js:638:4
+@https://retail.logimaxindia.com/etail_v3/admin/assets/js/dashboard.js:616:10
+j@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:26925
+fireWith@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:27738
+ready@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:29532
+I@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:29723
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26085: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26085: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26085: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+1693826943049	geckodriver	INFO	Listening on 127.0.0.1:49561
+1693826946098	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49562" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile55jF7N"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693826946956	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693826947107	Marionette	INFO	Listening on port 49576
+WebDriver BiDi listening on ws://127.0.0.1:49562
+Read port: 49576
+1693826947385	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49562/devtools/browser/8ab942b3-9f7d-4e23-988d-e17ae93be18a
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_order.js?v=1.38, line 14142: TypeError: document.getElementById(...) is null
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1693827118329	Marionette	INFO	Stopped listening on port 49576
+Dynamically enable window occlusion 1
+1693827133382	geckodriver	INFO	Listening on 127.0.0.1:49776
+1693827136461	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49777" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilePxBEDP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693827136808	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693827136921	Marionette	INFO	Listening on port 49788
+WebDriver BiDi listening on ws://127.0.0.1:49777
+Read port: 49788
+1693827137132	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49777/devtools/browser/3e8a3e7d-bae7-4420-97d2-bc7a1fd1e2aa
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_order.js?v=1.38, line 14142: TypeError: document.getElementById(...) is null
+1693827211765	Marionette	INFO	Stopped listening on port 49788
+Dynamically enable window occlusion 1
+1693827226899	geckodriver	INFO	Listening on 127.0.0.1:49907
+1693827229946	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49908" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile6JwDSX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693827230280	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693827230399	Marionette	INFO	Listening on port 49917
+WebDriver BiDi listening on ws://127.0.0.1:49908
+Read port: 49917
+1693827230613	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49908/devtools/browser/162e1948-42c0-45d4-9300-a3730b5e9bf1
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_order.js?v=1.38, line 14142: TypeError: document.getElementById(...) is null
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1693829318945	Marionette	INFO	Stopped listening on port 49917
+Dynamically enable window occlusion 1
+osts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileBYjEPi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693829083823	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693829083954	Marionette	INFO	Listening on port 50858
+WebDriver BiDi listening on ws://127.0.0.1:50849
+Read port: 50858
+1693829084101	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50849/devtools/browser/3ff6189a-37d4-4649-a6a4-adf3cffa19f8
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+1693829102682	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+send@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:10:14953
+ajax@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:10:10712
+getRateData@https://retail.logimaxindia.com/etail_v3/admin/assets/js/dashboard.js:638:4
+@https://retail.logimaxindia.com/etail_v3/admin/assets/js/dashboard.js:616:10
+j@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:26925
+fireWith@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:27738
+ready@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:29532
+I@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:29723
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_order.js?v=1.38, line 14142: TypeError: document.getElementById(...) is null
+1693829319988	Marionette	INFO	Stopped listening on port 50858
+Dynamically enable window occlusion 1
+1693829321460	geckodriver	INFO	Listening on 127.0.0.1:51013
+1693829324526	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51014" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofiledOw1GN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693829324936	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693829325066	Marionette	INFO	Listening on port 51023
+WebDriver BiDi listening on ws://127.0.0.1:51014
+Read port: 51023
+1693829325222	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51014/devtools/browser/03207774-e73b-46d7-95b2-42b4c82133ac
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+1693829345473	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+send@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:10:14953
+ajax@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:10:10712
+getRateData@https://retail.logimaxindia.com/etail_v3/admin/assets/js/dashboard.js:638:4
+@https://retail.logimaxindia.com/etail_v3/admin/assets/js/dashboard.js:616:10
+j@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:26925
+fireWith@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:27738
+ready@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:29532
+I@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:29723
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_order.js?v=1.38, line 14142: TypeError: document.getElementById(...) is null
+1693831000865	Marionette	INFO	Stopped listening on port 51023
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+"--remote-debugging-port" "51107" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile3NBNHy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693829560689	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693829560809	Marionette	INFO	Listening on port 51115
+WebDriver BiDi listening on ws://127.0.0.1:51107
+Read port: 51115
+1693829561030	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51107/devtools/browser/c0dc5984-7b9e-4867-8dd4-dbfe4e2e8310
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+1693829580954	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+send@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:10:14953
+ajax@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:10:10712
+getRateData@https://retail.logimaxindia.com/etail_v3/admin/assets/js/dashboard.js:638:4
+@https://retail.logimaxindia.com/etail_v3/admin/assets/js/dashboard.js:616:10
+j@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:26925
+fireWith@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:27738
+ready@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:29532
+I@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:29723
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_order.js?v=1.38, line 14142: TypeError: document.getElementById(...) is null
+1693829710981	Marionette	INFO	Stopped listening on port 51115
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1693829904144	geckodriver	INFO	Listening on 127.0.0.1:51214
+1693829907178	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51215" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilezRcOHc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693829907546	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693829907723	Marionette	INFO	Listening on port 51222
+WebDriver BiDi listening on ws://127.0.0.1:51215
+Read port: 51222
+1693829907798	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51215/devtools/browser/ffda5251-cab7-4902-8c84-52e24daec203
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_order.js?v=1.38, line 14142: TypeError: document.getElementById(...) is null
+1693831001765	Marionette	INFO	Stopped listening on port 51222
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+"--remote-debugging-port" "51317" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileTjiF06"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693830124562	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693830124688	Marionette	INFO	Listening on port 51324
+WebDriver BiDi listening on ws://127.0.0.1:51317
+Read port: 51324
+1693830124896	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51317/devtools/browser/2af33d61-d1f8-4f0c-9d53-da95e0d65734
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_order.js?v=1.38, line 14142: TypeError: document.getElementById(...) is null
+1693830902121	Marionette	INFO	Stopped listening on port 51324
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1693830913577	geckodriver	INFO	Listening on 127.0.0.1:51437
+1693830916615	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51438" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilesIVfcZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693830917096	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693830917220	Marionette	INFO	Listening on port 51445
+WebDriver BiDi listening on ws://127.0.0.1:51438
+Read port: 51445
+1693830917434	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51438/devtools/browser/f73bbe28-6c2e-46da-b63d-df334528a90c
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+1693830937313	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+send@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:10:14953
+ajax@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:10:10712
+getRateData@https://retail.logimaxindia.com/etail_v3/admin/assets/js/dashboard.js:638:4
+@https://retail.logimaxindia.com/etail_v3/admin/assets/js/dashboard.js:616:10
+j@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:26925
+fireWith@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:27738
+ready@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:29532
+I@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:29723
+1693830996662	Marionette	INFO	Stopped listening on port 51445
+Dynamically enable window occlusion 1
+1693830999260	geckodriver	INFO	Listening on 127.0.0.1:51522
+1693831002314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51523" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileQBIgNB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693831002686	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693831002823	Marionette	INFO	Listening on port 51530
+WebDriver BiDi listening on ws://127.0.0.1:51523
+Read port: 51530
+1693831003068	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51523/devtools/browser/46261638-b04a-416c-8b9e-65cc119adea8
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+1693831022813	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+send@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:10:14953
+ajax@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:10:10712
+getRateData@https://retail.logimaxindia.com/etail_v3/admin/assets/js/dashboard.js:638:4
+@https://retail.logimaxindia.com/etail_v3/admin/assets/js/dashboard.js:616:10
+j@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:26925
+fireWith@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:27738
+ready@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:29532
+I@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:29723
+1693831067084	Marionette	INFO	Stopped listening on port 51530
+Dynamically enable window occlusion 1
+1693831101640	geckodriver	INFO	Listening on 127.0.0.1:51619
+1693831104710	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51621" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileJkx4Qn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693831105065	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693831105189	Marionette	INFO	Listening on port 51628
+WebDriver BiDi listening on ws://127.0.0.1:51621
+Read port: 51628
+1693831105402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51621/devtools/browser/7b2a2ac7-393b-4ea7-8e22-e0ef8f1e6a0b
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_order.js?v=1.38, line 14142: TypeError: document.getElementById(...) is null
+1693831291611	Marionette	INFO	Stopped listening on port 51628
+Dynamically enable window occlusion 1
+1693831304138	geckodriver	INFO	Listening on 127.0.0.1:51716
+1693831307190	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51717" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileNlcDV2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693831307577	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693831307713	Marionette	INFO	Listening on port 51724
+WebDriver BiDi listening on ws://127.0.0.1:51717
+Read port: 51724
+1693831307931	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51717/devtools/browser/a83ea386-0b2c-42e9-bdd1-ea5658af5e6f
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+1693831327630	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+send@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:10:14953
+ajax@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:10:10712
+getRateData@https://retail.logimaxindia.com/etail_v3/admin/assets/js/dashboard.js:638:4
+@https://retail.logimaxindia.com/etail_v3/admin/assets/js/dashboard.js:616:10
+j@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:26925
+fireWith@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:27738
+ready@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:29532
+I@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:29723
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_order.js?v=1.38, line 14142: TypeError: document.getElementById(...) is null
+1693832182214	Marionette	INFO	Stopped listening on port 51724
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+"--remote-debugging-port" "51808" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile8RMlFR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693831614556	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693831614697	Marionette	INFO	Listening on port 51815
+WebDriver BiDi listening on ws://127.0.0.1:51808
+Read port: 51815
+1693831614907	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51808/devtools/browser/a988bda9-3be9-4750-a3e5-8130962cfb02
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+1693831634897	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+send@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:10:14953
+ajax@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:10:10712
+getRateData@https://retail.logimaxindia.com/etail_v3/admin/assets/js/dashboard.js:638:4
+@https://retail.logimaxindia.com/etail_v3/admin/assets/js/dashboard.js:616:10
+j@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:26925
+fireWith@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:27738
+ready@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:29532
+I@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:29723
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_order.js?v=1.38, line 14142: TypeError: document.getElementById(...) is null
+1693832182849	Marionette	INFO	Stopped listening on port 51815
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+"--remote-debugging-port" "51909" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileLTLnXh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693831872607	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693831872729	Marionette	INFO	Listening on port 51916
+WebDriver BiDi listening on ws://127.0.0.1:51909
+Read port: 51916
+1693831872949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51909/devtools/browser/626b09c2-6a85-4045-8d68-ef6790860e73
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_order.js?v=1.38, line 14142: TypeError: document.getElementById(...) is null
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1693832184006	Marionette	INFO	Stopped listening on port 51916
+Dynamically enable window occlusion 1
+1693832196488	geckodriver	INFO	Listening on 127.0.0.1:52048
+1693832199515	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52049" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilex5bL1b"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693832199859	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693832199974	Marionette	INFO	Listening on port 52058
+WebDriver BiDi listening on ws://127.0.0.1:52049
+Read port: 52058
+1693832200195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52049/devtools/browser/233d253c-ed7f-42b1-93e8-1eca4144e164
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_order.js?v=1.38, line 14142: TypeError: document.getElementById(...) is null
+1693832890675	Marionette	INFO	Stopped listening on port 52058
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1693888253187	geckodriver	INFO	Listening on 127.0.0.1:54788
+1693888256274	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54789" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilegA9WIz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693888256903	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693888257061	Marionette	INFO	Listening on port 54796
+WebDriver BiDi listening on ws://127.0.0.1:54789
+Read port: 54796
+1693888257343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54789/devtools/browser/8e81c1e1-3f9e-4973-9efc-23fa3d9cf3a0
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_order.js?v=1.38, line 14142: TypeError: document.getElementById(...) is null
+1693888496487	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1693888586102	Marionette	INFO	Stopped listening on port 54796
+Dynamically enable window occlusion 1
+1693888589751	geckodriver	INFO	Listening on 127.0.0.1:54903
+1693888592825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54904" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilei6XCjQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693888593208	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693888593330	Marionette	INFO	Listening on port 54911
+WebDriver BiDi listening on ws://127.0.0.1:54904
+Read port: 54911
+1693888593554	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54904/devtools/browser/2be793bf-7131-42e9-ba94-baa7a07a33fc
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_order.js?v=1.38, line 14142: TypeError: document.getElementById(...) is null
+1693888786306	Marionette	INFO	Stopped listening on port 54911
+Dynamically enable window occlusion 1
+1693888791529	geckodriver	INFO	Listening on 127.0.0.1:54990
+1693888794596	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54991" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileiiWFsy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693888794925	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693888795041	Marionette	INFO	Listening on port 54998
+WebDriver BiDi listening on ws://127.0.0.1:54991
+Read port: 54998
+1693888795278	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54991/devtools/browser/90c7eb48-d26f-4c31-80bf-878a5cb1f399
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+1693888814634	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+send@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:10:14953
+ajax@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:10:10712
+getRateData@https://retail.logimaxindia.com/etail_v3/admin/assets/js/dashboard.js:638:4
+@https://retail.logimaxindia.com/etail_v3/admin/assets/js/dashboard.js:616:10
+j@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:26925
+fireWith@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:27738
+ready@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:29532
+I@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:29723
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_order.js?v=1.38, line 14142: TypeError: document.getElementById(...) is null
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_order.js?v=1.38, line 14142: TypeError: document.getElementById(...) is null
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js, line 4: Error: Syntax error, unrecognized expression: https://retail.logimaxindia.com/etail_v3/admin/index.php/admin_ret_order/order/edit/2473
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_order.js?v=1.38, line 14142: TypeError: document.getElementById(...) is null
+1693889866117	Marionette	INFO	Stopped listening on port 54998
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1693918765146	geckodriver	INFO	Listening on 127.0.0.1:65077
+1693918768221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65078" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileZ36WB5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693918768524	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693918768642	Marionette	INFO	Listening on port 65087
+WebDriver BiDi listening on ws://127.0.0.1:65078
+Read port: 65087
+1693918768849	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65078/devtools/browser/2aaeb310-3a53-49ae-82b0-fc05b1233580
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_order.js?v=1.39, line 14148: TypeError: document.getElementById(...) is null
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js, line 4: Error: Syntax error, unrecognized expression: https://retail.logimaxindia.com/etail_v3/admin/index.php/admin_ret_order/order/edit/2476
+1693918876231	Marionette	INFO	Stopped listening on port 65087
+Dynamically enable window occlusion 1
+1693919150527	geckodriver	INFO	Listening on 127.0.0.1:65341
+1693919153571	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65342" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileJ3jMWV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693919153927	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693919154049	Marionette	INFO	Listening on port 65352
+WebDriver BiDi listening on ws://127.0.0.1:65342
+Read port: 65352
+1693919154288	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65342/devtools/browser/b55c9514-9480-4321-88e4-e04f722fe858
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_order.js?v=1.39, line 14148: TypeError: document.getElementById(...) is null
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js, line 4: Error: Syntax error, unrecognized expression: https://retail.logimaxindia.com/etail_v3/admin/index.php/admin_ret_order/order/edit/2476
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_order.js?v=1.39, line 14148: TypeError: document.getElementById(...) is null
+1693919499555	geckodriver	INFO	Listening on 127.0.0.1:49191
+1693919502580	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49192" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofiledIgnnc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693919502933	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693919503060	Marionette	INFO	Listening on port 49199
+WebDriver BiDi listening on ws://127.0.0.1:49192
+Read port: 49199
+1693919503283	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49192/devtools/browser/35a58ec4-0bfd-43b2-bb7a-034f4b799dd9
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+1693919521653	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+send@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:10:14953
+ajax@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:10:10712
+getRateData@https://retail.logimaxindia.com/etail_v3/admin/assets/js/dashboard.js:1275:4
+@https://retail.logimaxindia.com/etail_v3/admin/assets/js/dashboard.js:1231:10
+j@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:26925
+fireWith@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:27738
+ready@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:29532
+I@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:29723
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_order.js?v=1.39, line 14148: TypeError: document.getElementById(...) is null
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js, line 4: Error: Syntax error, unrecognized expression: https://retail.logimaxindia.com/etail_v3/admin/index.php/admin_ret_order/order/edit/2476
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_order.js?v=1.39, line 14148: TypeError: document.getElementById(...) is null
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js, line 4: Error: Syntax error, unrecognized expression: https://retail.logimaxindia.com/etail_v3/admin/index.php/admin_ret_order/order/edit/2476
+1693919896780	Marionette	INFO	Stopped listening on port 49199
+Dynamically enable window occlusion 1
+1694091113518	geckodriver	INFO	Listening on 127.0.0.1:52863
+1694091116615	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52864" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile33W4Xp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694091116881	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694091116989	Marionette	INFO	Listening on port 52871
+WebDriver BiDi listening on ws://127.0.0.1:52864
+Read port: 52871
+1694091117190	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52864/devtools/browser/643c8772-c68c-4442-9720-b3f419145eec
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+1694092069074	Marionette	INFO	Stopped listening on port 52871
+Dynamically enable window occlusion 1
+ettings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694091214051	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694091214171	Marionette	INFO	Listening on port 52958
+WebDriver BiDi listening on ws://127.0.0.1:52951
+Read port: 52958
+1694091214365	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52951/devtools/browser/f68c77e4-676c-49ca-a9bf-fa0e5c527a4c
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+1694091232364	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+send@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:10:14953
+ajax@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:10:10712
+getRateData@https://retail.logimaxindia.com/etail_v3/admin/assets/js/dashboard.js:1275:4
+@https://retail.logimaxindia.com/etail_v3/admin/assets/js/dashboard.js:1231:10
+j@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:26925
+fireWith@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:27738
+ready@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:29532
+I@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:29723
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+1694092069841	Marionette	INFO	Stopped listening on port 52958
+Dynamically enable window occlusion 1
+ettings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694091435288	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694091435398	Marionette	INFO	Listening on port 53050
+WebDriver BiDi listening on ws://127.0.0.1:53043
+Read port: 53050
+1694091435593	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53043/devtools/browser/ae80570e-c5a1-41d1-aed4-8ddc32d2aef3
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: watch :: line 1663"  data: no]
+Stack: watch@resource://devtools/server/actors/targets/window-global.js:1663:28
+_watchDocshells@resource://devtools/server/actors/targets/window-global.js:837:28
+setDocShell/<@resource://devtools/server/actors/targets/window-global.js:384:42
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1663, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1711: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 513: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1694092070814	Marionette	INFO	Stopped listening on port 53050
+Dynamically enable window occlusion 1
+ail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+1694092071885	Marionette	INFO	Stopped listening on port 53194
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53284" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileIKAsXg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694091935119	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694091935228	Marionette	INFO	Listening on port 53291
+WebDriver BiDi listening on ws://127.0.0.1:53284
+Read port: 53291
+1694091935412	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53284/devtools/browser/91390ae9-8192-4c1c-9d41-9339573b453a
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1694092067134	Marionette	INFO	Stopped listening on port 53291
+Dynamically enable window occlusion 1
+1694092072020	geckodriver	INFO	Listening on 127.0.0.1:53410
+1694092075091	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53411" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileL1mpNU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694092075644	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694092075752	Marionette	INFO	Listening on port 53418
+WebDriver BiDi listening on ws://127.0.0.1:53411
+Read port: 53418
+1694092075942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53411/devtools/browser/2b469882-f77b-444a-bc76-3e2bc0f90b55
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_order.js?v=1.39, line 14167: TypeError: document.getElementById(...) is null
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js, line 4: Error: Syntax error, unrecognized expression: https://retail.logimaxindia.com/etail_v3/admin/index.php/admin_ret_order/order/edit/2476
+1694092236362	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1694092292632	Marionette	INFO	Stopped listening on port 53418
+Dynamically enable window occlusion 1
